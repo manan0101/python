@@ -12,5 +12,5 @@ print(l2)
 del l1[2] # delete element which  index is passed
 print(l1) # delete complete list if index is not passed
 
-del l2
-# print(l2)  # get error because l2 list is delete
+# del l2
+# # print(l2)  # get error because l2 list is delete
