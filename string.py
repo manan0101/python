@@ -1,0 +1,8 @@
+s=input("Enter a String : ")
+print (str.isalnum(s))
+print(str.isalpha(s))
+print(str.islower(s))
+print(str.isnumeric(s))
+print(str.isspace(s))
+print(str.istitle(s))
+print(str.isupper(s))
